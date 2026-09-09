@@ -337,26 +337,6 @@ Completed professional programs across:
 
 ---
 
-# 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=EmanSayedSeddik&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmanSayedSeddik&layout=compact&theme=tokyonight&hide_border=true" height="170"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=EmanSayedSeddik&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
 # 📌 Currently Working On
 
 🔹 Building Data Analytics portfolio projects  
