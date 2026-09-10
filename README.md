@@ -1,5 +1,9 @@
 # 👋 Hi, I'm Eman Sayed Seddik
 
+<p align="center">
+  <img src="./assets/profile_banner.gif" alt="Eman Sayed Seddik profile banner" width="100%" />
+</p>
+
 ### 📊 Data Analyst | 📋 Project Manager | 📈 Business Intelligence
 
 I’m a **Data Analyst** passionate about transforming raw data into meaningful insights, interactive dashboards, and actionable business decisions.
