@@ -1,8 +1,7 @@
 # 👋 Hi, I'm Eman Sayed Seddik
-
 <p align="center">
   <img src="./assets/profile_banner.gif" alt="Eman Sayed Seddik profile banner" width="100%" />
-</p>
+</p><img width="320" height="568" alt="profile_banner" src="https://github.com/user-attachments/assets/316ac637-2454-47ce-a7f1-f401964cef06" />
 
 ### 📊 Data Analyst | 📋 Project Manager | 📈 Business Intelligence
 
