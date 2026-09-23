@@ -19,6 +19,7 @@ My work combines **Data Analytics, Business Intelligence, and Project Management
 - 🔍 Exploratory Data Analysis (EDA)
 - 🗄️ SQL Data Analysis & Querying
 - 🐍 Python for Data Analysis
+- 🌐 Data Collection | Web Scraping • Data Extraction • Web Data Collection
 - 📈 Interactive Dashboard Development
 - 🎯 KPI & Performance Analysis
 - 💡 Turning data into actionable business insights
