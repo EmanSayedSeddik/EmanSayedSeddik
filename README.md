@@ -138,7 +138,9 @@ I’m proud to have had my learning and career journey featured through **Udemy 
 
 <td width="50%" align="center">
 
+
 ## 💜 Udemy
+<img width="1165" height="904" alt="image" src="https://github.com/user-attachments/assets/cc989715-758a-4d43-aa3c-4ef022593da7" />
 
 ### One hour a day: How Eman built the confidence to pivot into a new career
 
@@ -155,6 +157,7 @@ A story about building confidence through continuous learning and using practica
 <td width="50%" align="center">
 
 ## 💙 Coursera
+<img width="944" height="808" alt="Screenshot 2025-11-17 142122" src="https://github.com/user-attachments/assets/4fa5f2f3-de82-4d32-9aa7-a35ecd66a406" />
 
 ### My Data-Driven Career Growth Journey
 
